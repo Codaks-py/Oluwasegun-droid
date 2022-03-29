@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Oluwasegun-droid
-- 👀 I’m interested in python and machine learning
+- 👀 I’m interested in python and Daya science
 - 🌱 I’m currently learning python 
 -
 <!---
