@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Oluwasegun-droid,Codaks preferably
-- 👀 I’m a Data scientist,Visualiser, python by
+- 👀 I’m a Data scientist,Visualiser, pythonista
 - 🌱 
 
 <!---
